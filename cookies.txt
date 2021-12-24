@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jarvee.com	TRUE	/	FALSE	1999999999	PHPSESSID	iaj7te3ptm096qqnoqt8dulf4q
+www.dropbox.com	TRUE	/	FALSE	1999999999	gvc	MjU4NTM4MDg4NzEzMzUzMzU4OTk0MDQ3OTEzNjY5Mjg3OTY0Nzg5
+dropbox.com	TRUE	/	FALSE	1999999999	t	-c3esnFeih3oMjEMS7_1ucW9
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-js_csrf	-c3esnFeih3oMjEMS7_1ucW9
+dropbox.com	TRUE	/	FALSE	1999999999	locale	en
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-logged-out-session	ChCuuNmnpGVyMrWnHFLu9x9IEMm%2FlY4GGi5BQ0QzMWZiVnJNYVhOcUJ0M1Rzc1g1bnI1TFJINEVlZVNKeDQ0NXNfWUZ5Z2ZR
+jarvee.com	TRUE	/	FALSE	1999999999	ap_id	jarvee
+jarvee.com	TRUE	/	FALSE	1999999999	incDsYlFZ	SjuKJE%2Ac9eZbx
+jarvee.com	TRUE	/	FALSE	1999999999	DmqCJb	emMv%5D%40cfUq
+jarvee.com	TRUE	/	FALSE	1999999999	pbNzkTGwZc	uaVjPK
+
